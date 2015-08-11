@@ -16,7 +16,7 @@
 <div class="container">
 <div class="jumbotron" style="margin-top:20px;padding:20px;">
   <h2>FTP Test</h2>
-  <form class="form-horizontal" role="form" action="ftp-test.php" method="post">
+  <form class="form-horizontal" role="form" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
     <div class="form-group">
       <label class="control-label col-sm-2" for="server">FTP Server:</label>
       <div class="col-sm-10">
