@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- Simple FTP Test -- Created by Jereme Hancock -->
+<!-- Simple FTP Test - Created by Jereme Hancock -->
 
 <html lang="en">
 <head>
